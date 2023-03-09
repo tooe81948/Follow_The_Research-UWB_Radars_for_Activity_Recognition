@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Super AI Engineer 2022 - Signal Hackathon
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+เป็นหนึ่งในรายการการแข่งขัน Signal Hackathon ของโครงการ Super AI SS3
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+รายละเอียดเพิ่มเติม เป็นการจับการเคลื่อนไหวของร่างกายมนุษย์ ในท่าทางต่างๆ การเคลื่อนไหวต่างๆ
